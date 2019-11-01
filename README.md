@@ -12,3 +12,5 @@ These examples will show you how to:
 * Read transporter contracts (shipping methods).
 
 We provide an [OpenAPI specification file](https://developer.ongoingwarehouse.com/REST/v1/openapi.json) for our API. This is a machine-readable specification of the API, which allows you to automatically generate client code for your own programming language.  In this example, we used [NSwagStudio](https://github.com/RicoSuter/NSwag/wiki/NSwagStudio) to generate a client for C#.
+
+If you want to use our SOAP API instead, [please take a look at these examples instead](https://github.com/HenrikOngoing/Ongoing-Warehouse-SDK).
