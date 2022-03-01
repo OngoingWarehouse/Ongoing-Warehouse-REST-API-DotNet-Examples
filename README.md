@@ -1,4 +1,4 @@
-﻿<a href="https://www.ongoingwarehouse.com">![Logo](https://ongoingwarehouse.com/images/ongoing_logo_10k_blue.png)</a>
+﻿<a href="https://www.ongoingwarehouse.com">![Logo](https://ongoingwarehouse.com/images/logo/ongoing_logo_rgb_150.webp)</a>
 # Ongoing Warehouse .NET integration examples using the REST API
 [Ongoing Warehouse](https://www.ongoingwarehouse.com/) is a Warehouse Management System (WMS).
 
